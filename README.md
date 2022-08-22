@@ -1,2 +1,2 @@
 # BMWTESTDRIVE
- The test drive page I created while I was interning at BMW.
+ The test drive page I created during my internship at BMW.
